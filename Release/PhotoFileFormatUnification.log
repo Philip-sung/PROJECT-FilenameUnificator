@@ -1,0 +1,6 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Pgm\Desktop\Programmers\PhotoFileFormatUnification\main.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\Pgm\Desktop\Programmers\PhotoFileFormatUnification\main.cpp(4,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iostream(19): message : 'std' 선언을 참조하십시오.
+C:\Users\Pgm\Desktop\Programmers\PhotoFileFormatUnification\main.cpp(4,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
